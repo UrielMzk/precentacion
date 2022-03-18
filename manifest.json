@@ -1,0 +1,117 @@
+{
+  "name": "DigiGram",
+  "short_name": "Vapoperro",
+  "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
+  "background_color": "#66b3ff",
+  "theme_color": "#1ab2ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "id": "./precentacion/index.html?utm_source=web_app_manifest",
+  "start_url": "/precentacion/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./assets/img/skylar-spence1024.png",
+      "sizes": "1016x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble1024.png",
+      "sizes": "1022x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence512.png",
+      "sizes": "512x516",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/img/marble512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/img/skylar-spence384.png",
+      "sizes": "384x387",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble384.png",
+      "sizes": "384x385",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence256.png",
+      "sizes": "256x258",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble256.png",
+      "sizes": "256x257",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence192.png",
+      "sizes": "192x194",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble192.png",
+      "sizes": "192x193",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence144.png",
+      "sizes": "144x149",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence128.png",
+      "sizes": "128x129",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble128.png",
+      "sizes": "128x129",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence96.png",
+      "sizes": "96x97",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble96.png",
+      "sizes": "96x97",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence64.png",
+      "sizes": "64x65",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble64.png",
+      "sizes": "64x65",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/skylar-spence32.png",
+      "sizes": "32x33",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/marble32.png",
+      "sizes": "32x33",
+      "type": "image/png"
+    }
+  ]
+}
